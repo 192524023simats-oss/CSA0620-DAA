@@ -13,6 +13,8 @@ def insertion_sort(arr):
 
 # Main Program
 arr = [12, 11, 13, 5, 6]
+print("Name: Sree")
+print("Register Number:192524023")
 
 print("Original Array:", arr)
 
